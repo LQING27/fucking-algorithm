@@ -2,23 +2,6 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 
 # labuladong 的算法小抄
 
-<p align='center'>
-<a href="https://labuladong.github.io/algo" target="_blank"><img alt="Website" src="https://img.shields.io/website?label=%E5%9C%A8%E7%BA%BF%E7%94%B5%E5%AD%90%E4%B9%A6&style=flat-square&down_color=blue&down_message=%E7%82%B9%E8%BF%99%E9%87%8C&up_color=blue&up_message=%E7%82%B9%E8%BF%99%E9%87%8C&url=https%3A%2F%2Flabuladong.gitee.io%2Falgo&logo=Gitea"></a>
-<a href="https://github.com/labuladong/fucking-algorithm" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/labuladong/fucking-algorithm?label=Stars&style=flat-square&logo=GitHub"></a>
-</p>
-
-<p align='center'>
-<a href="https://www.github.com/labuladong" target="_blank"><img src="https://img.shields.io/badge/作者-@labuladong-000000.svg?style=flat-square&logo=GitHub"></a>
-<a href="https://www.zhihu.com/people/labuladong" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@labuladong-000000.svg?style=flat-square&logo=Zhihu"></a>
-<a href="https://i.loli.net/2020/10/10/MhRTyUKfXZOlQYN.jpg" target="_blank"><img src="https://img.shields.io/badge/公众号-@labuladong-000000.svg?style=flat-square&logo=WeChat"></a>
-<a href="https://space.bilibili.com/14089380" target="_blank"><img src="https://img.shields.io/badge/B站-@labuladong-000000.svg?style=flat-square&logo=Bilibili"></a>
-</p>
-
-![](pictures/cover.jpg)
-
-好消息，2023 最新版《labuladong 的算法笔记》纸质书出版啦！微信扫码查看简介👆
-
-[![Star History Chart](https://api.star-history.com/svg?repos=labuladong/fucking-algorithm&type=Date)](https://star-history.com/#labuladong/fucking-algorithm&Date)
 
 本仓库总共 60 多篇原创文章，都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到**举一反三，通俗易懂**，绝不是简单的代码堆砌，后面有目录。
 
@@ -307,63 +290,3 @@ PDF 共两本，一本《labuladong 的算法秘籍》类似教材，帮你系�
   * [如何学习开源项目，我又总结了套路](https://labuladong.github.io/article/fname.html?fname=调试技巧)
 
 <!-- table end -->
-
-# 感谢如下大佬参与翻译
-
-按照昵称字典序排名：
-
-[ABCpril](https://github.com/ABCpril), 
-[andavid](https://github.com/andavid), 
-[bryceustc](https://github.com/bryceustc), 
-[build2645](https://github.com/build2645), 
-[CarrieOn](https://github.com/CarrieOn), 
-[cooker](https://github.com/xiaochuhub), 
-[Dong Wang](https://github.com/Coder2Programmer), 
-[ExcaliburEX](https://github.com/ExcaliburEX), 
-[floatLig](https://github.com/floatLig), 
-[ForeverSolar](https://github.com/foreversolar), 
-[Fulin Li](https://fulinli.github.io/), 
-[Funnyyanne](https://github.com/Funnyyanne), 
-[GYHHAHA](https://github.com/GYHHAHA), 
-[Hi_archer](https://hiarcher.top/), 
-[Iruze](https://github.com/Iruze), 
-[Jieyixia](https://github.com/Jieyixia), 
-[Justin](https://github.com/Justin-YGG), 
-[Kevin](https://github.com/Kevin-free), 
-[Lrc123](https://github.com/Lrc123), 
-[lriy](https://github.com/lriy), 
-[Lyjeeq](https://github.com/Lyjeeq), 
-[MasonShu](https://greenwichmt.github.io/), 
-[Master-cai](https://github.com/Master-cai), 
-[miaoxiaozui2017](https://github.com/miaoxiaozui2017), 
-[natsunoyoru97](https://github.com/natsunoyoru97), 
-[nettee](https://github.com/nettee), 
-[PaperJets](https://github.com/PaperJets), 
-[qy-yang](https://github.com/qy-yang), 
-[realism0331](https://github.com/realism0331), 
-[SCUhzs](https://github.com/brucecat), 
-[Seaworth](https://github.com/Seaworth), 
-[shazi4399](https://github.com/shazi4399), 
-[ShuozheLi](https://github.com/ShuoZheLi/), 
-[sinjoywong](https://blog.csdn.net/SinjoyWong), 
-[sunqiuming526](https://github.com/sunqiuming526), 
-[Tianhao Zhou](https://github.com/tianhaoz95), 
-[timmmGZ](https://github.com/timmmGZ), 
-[tommytim0515](https://github.com/tommytim0515), 
-[ucsk](https://github.com/ucsk), 
-[wadegrc](https://github.com/wadegrc), 
-[walsvid](https://github.com/walsvid), 
-[warmingkkk](https://github.com/warmingkkk), 
-[Wonderxie](https://github.com/Wonderxie), 
-[wsyzxxxx](https://github.com/wsyzxxxx), 
-[xiaodp](https://github.com/xiaodp), 
-[youyun](https://github.com/youyun), 
-[yx-tan](https://github.com/yx-tan), 
-[Zero](https://github.com/Mr2er0), 
-[Ziming](https://github.com/ML-ZimingMeng/LeetCode-Python3)
-
-# Donate
-
-如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
-
-<img src="pictures/pay.jpg" width = "200" align=center />
